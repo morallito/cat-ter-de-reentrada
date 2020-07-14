@@ -2,7 +2,7 @@
 Projeto para fazer a leitra de forma digital de um catéter de reentrada, ilustrado na imagem a seguir. 
 
 
-![](img/imagem_device.png)
+![](img/imagem_device.PNG)
 
 
 # Hardware 
